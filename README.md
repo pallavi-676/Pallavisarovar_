@@ -1,7 +1,8 @@
 <h1 align="center"> Hey, I'm Pallavi Sarovar🪷</h1>
 
 <p align="center">
-🎓 B.Tech Computer Science Engineering Student · 💻 Python Developer · 📊 Data Analytics
+🎓 CSE Student | 💻 Aspiring Developer | 🤖 Interested in AI & Emerging Technologies
+
 </p>
 
 ---
