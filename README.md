@@ -5,6 +5,9 @@
 </p>
 
 ---
+>  *“Learning never exhausts the mind.”* — Leonardo da Vinci
+
+---
 
 ## 🚀 About Me
 - 🎓 Computer Science Engineering undergraduate  
@@ -32,6 +35,18 @@
 `HTML`
 
 ---
+## 🎨 Creative & Design
+
+| Skill | Description |
+|------|------------|
+| Design Thinking | 🧠 Structuring ideas with clarity and logic |
+| Visual Communication | 🎯 Creating clean layouts and presentations |
+| Animation & Motion Sense | ✨ Interest in motion, flow, and transitions |
+| Storytelling | 📖 Explaining concepts creatively and clearly |
+| User-Centric Thinking | 👥 Designing with user experience in mind |
+| Interaction Logic | 🎮 Planning responses based on user actions |
+
+---
 
 ## 🎯 Career Objective
 To continuously improve my technical skills and gain practical exposure in software development and data analytics while contributing to meaningful and impactful projects.
@@ -39,5 +54,5 @@ To continuously improve my technical skills and gain practical exposure in softw
 ---
 
 <p align="center">
-✨ Learn • Build • Grow ✨
+✨ Learn the Why • Build the How • Grow Every Day ✨
 </p>
